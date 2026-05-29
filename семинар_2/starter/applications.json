@@ -1,0 +1,602 @@
+[
+  {
+    "full_name": "Анна Павловна Соколова",
+    "age": 32,
+    "address": {
+      "city": "Ростов-на-Дону",
+      "district": "Ворошиловский"
+    },
+    "speciality": "HR-специалист",
+    "desired_course": "HR-аналитика",
+    "years_of_experience": 8,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Елена Викторовна Кузнецова",
+    "age": 35,
+    "address": {
+      "city": "Санкт-Петербург",
+      "district": "Петроградский"
+    },
+    "speciality": "бухгалтер",
+    "desired_course": "финансовый менеджмент",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Елена Викторовна Смирнова",
+    "age": 34,
+    "address": {
+      "city": "Казань",
+      "district": "Ново-Савиновский"
+    },
+    "speciality": "менеджер проектов",
+    "desired_course": "управление проектами",
+    "years_of_experience": 8,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Григорьев Виктор Александрович",
+    "age": 35,
+    "address": {
+      "city": "Москва",
+      "district": "ЦАО"
+    },
+    "speciality": "менеджер проектов",
+    "desired_course": "управление проектами",
+    "years_of_experience": 12,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Иван Петрович Соколов",
+    "age": 38,
+    "address": {
+      "city": "Екатеринбург",
+      "district": "Верх-Исетский"
+    },
+    "speciality": "юрист",
+    "desired_course": "управление проектами",
+    "years_of_experience": 12,
+    "graduation_year": 2008
+  },
+  {
+    "full_name": "Елена Иванова",
+    "age": 34,
+    "address": {
+      "city": "Пермь",
+      "district": "Свердловский"
+    },
+    "speciality": "HR-специалист",
+    "desired_course": "HR-аналитика",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Смирнова Елена Андреевна",
+    "age": 35,
+    "address": {
+      "city": "Казань",
+      "district": "Советский"
+    },
+    "speciality": "юрист",
+    "desired_course": "управление проектами",
+    "years_of_experience": 12,
+    "graduation_year": 2010
+  },
+  {
+    "full_name": "Алексей Владимирович Петров",
+    "age": 35,
+    "address": {
+      "city": "Санкт-Петербург",
+      "district": "Приморский"
+    },
+    "speciality": "инженер",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 12,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Сергеев Иван Петрович",
+    "age": 40,
+    "address": {
+      "city": "Пермь",
+      "district": "Индустриальный"
+    },
+    "speciality": "инженер",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 15,
+    "graduation_year": 2005
+  },
+  {
+    "full_name": "Смирнова Ольга Викторовна",
+    "age": 34,
+    "address": {
+      "city": "Краснодар",
+      "district": "Центральный"
+    },
+    "speciality": "маркетолог",
+    "desired_course": "анализ данных",
+    "years_of_experience": 10,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Соколов Дмитрий Алексеевич",
+    "age": 32,
+    "address": {
+      "city": "Пермь",
+      "district": "Индустриальный"
+    },
+    "speciality": "специалист по охране труда",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 8,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Иванова Елена Петровна",
+    "age": 33,
+    "address": {
+      "city": "Пермь",
+      "district": "Мотовилихинский"
+    },
+    "speciality": "учитель",
+    "desired_course": "цифровая педагогика",
+    "years_of_experience": 10,
+    "graduation_year": 2013
+  },
+  {
+    "full_name": "Иван Петров",
+    "age": 34,
+    "address": {
+      "city": "Нижний Новгород",
+      "district": "Советский"
+    },
+    "speciality": "юрист",
+    "desired_course": "управление проектами",
+    "years_of_experience": 10,
+    "graduation_year": 2010
+  },
+  {
+    "full_name": "Елена Смирнова",
+    "age": 35,
+    "address": {
+      "city": "Казань",
+      "district": "Советский"
+    },
+    "speciality": "аналитик данных",
+    "desired_course": "анализ данных",
+    "years_of_experience": 12,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Иванова Мария Сергеевна",
+    "age": 35,
+    "address": {
+      "city": "Москва",
+      "district": "ЦАО"
+    },
+    "speciality": "учитель",
+    "desired_course": "цифровая педагогика",
+    "years_of_experience": 13,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Иванова Елена Петровна",
+    "age": 38,
+    "address": {
+      "city": "Самара",
+      "district": "Промышленный"
+    },
+    "speciality": "врач",
+    "desired_course": "медицинская информатика",
+    "years_of_experience": 14,
+    "graduation_year": 2010
+  },
+  {
+    "full_name": "Мария Викторовна Петрова",
+    "age": 45,
+    "address": {
+      "city": "Москва",
+      "district": "ЮЗАО"
+    },
+    "speciality": "врач",
+    "desired_course": "медицинская информатика",
+    "years_of_experience": 20,
+    "graduation_year": 2002
+  },
+  {
+    "full_name": "Иван Петров",
+    "age": 35,
+    "address": {
+      "city": "Санкт-Петербург",
+      "district": "Петроградский"
+    },
+    "speciality": "менеджер проектов",
+    "desired_course": "управление проектами",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Евгений Николаевич Соколов",
+    "age": 34,
+    "address": {
+      "city": "Новосибирск",
+      "district": "Октябрьский"
+    },
+    "speciality": "аналитик данных",
+    "desired_course": "анализ данных",
+    "years_of_experience": 8,
+    "graduation_year": 2016
+  },
+  {
+    "full_name": "Глебова Екатерина Владимировна",
+    "age": 32,
+    "address": {
+      "city": "Нижний Новгород",
+      "district": "Нижегородский"
+    },
+    "speciality": "юрист",
+    "desired_course": "управление проектами",
+    "years_of_experience": 8,
+    "graduation_year": 2016
+  },
+  {
+    "full_name": "Анна Сергеевна Кузнецова",
+    "age": 35,
+    "address": {
+      "city": "Самара",
+      "district": "Промышленный"
+    },
+    "speciality": "аналитик данных",
+    "desired_course": "анализ данных",
+    "years_of_experience": 12,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Кузнецов Дмитрий Алексеевич",
+    "age": 34,
+    "address": {
+      "city": "Ростов-на-Дону",
+      "district": "Советский"
+    },
+    "speciality": "инженер",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 12,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Дарья Сергеевна Кузнецова",
+    "age": 28,
+    "address": {
+      "city": "Санкт-Петербург",
+      "district": "Приморский"
+    },
+    "speciality": "аналитик данных",
+    "desired_course": "анализ данных",
+    "years_of_experience": 6,
+    "graduation_year": 2018
+  },
+  {
+    "full_name": "Анна Сергеевна Козлова",
+    "age": 32,
+    "address": {
+      "city": "Ростов-на-Дону",
+      "district": "Кировский"
+    },
+    "speciality": "юрист",
+    "desired_course": "управление проектами",
+    "years_of_experience": 8,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Сергей Владимирович Кузнецов",
+    "age": 35,
+    "address": {
+      "city": "Екатеринбург",
+      "district": "Ленинский"
+    },
+    "speciality": "специалист по охране труда",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Елена Павловна Кузнецова",
+    "age": 35,
+    "address": {
+      "city": "Москва",
+      "district": "ЮЗАО"
+    },
+    "speciality": "врач",
+    "desired_course": "медицинская информатика",
+    "years_of_experience": 13,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Алексей Николаевич Кузнецов",
+    "age": 38,
+    "address": {
+      "city": "Краснодар",
+      "district": "Прикубанский"
+    },
+    "speciality": "специалист по охране труда",
+    "desired_course": "управление проектами",
+    "years_of_experience": 15,
+    "graduation_year": 2008
+  },
+  {
+    "full_name": "Петрова Ирина Сергеевна",
+    "age": 35,
+    "address": {
+      "city": "Екатеринбург",
+      "district": "Верх-Исетский"
+    },
+    "speciality": "бухгалтер",
+    "desired_course": "финансовый менеджмент",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Кузнецова Анна Игоревна",
+    "age": 33,
+    "address": {
+      "city": "Нижний Новгород",
+      "district": "Советский"
+    },
+    "speciality": "маркетолог",
+    "desired_course": "анализ данных",
+    "years_of_experience": 10,
+    "graduation_year": 2013
+  },
+  {
+    "full_name": "Иван Петрович Кузнецов",
+    "age": 35,
+    "address": {
+      "city": "Екатеринбург",
+      "district": "Верх-Исетский"
+    },
+    "speciality": "специалист по охране труда",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Иванова Елена Петровна",
+    "age": 35,
+    "address": {
+      "city": "Казань",
+      "district": "Приволжский"
+    },
+    "speciality": "врач",
+    "desired_course": "медицинская информатика",
+    "years_of_experience": 10,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Анна Сергеевна Кузнецова",
+    "age": 31,
+    "address": {
+      "city": "Нижний Новгород",
+      "district": "Нижегородский"
+    },
+    "speciality": "маркетолог",
+    "desired_course": "анализ данных",
+    "years_of_experience": 8,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Алексей Николаевич Морозов",
+    "age": 38,
+    "address": {
+      "city": "Самара",
+      "district": "Октябрьский"
+    },
+    "speciality": "учитель",
+    "desired_course": "цифровая педагогика",
+    "years_of_experience": 15,
+    "graduation_year": 2008
+  },
+  {
+    "full_name": "Алексей Смирнов",
+    "age": 38,
+    "address": {
+      "city": "Москва",
+      "district": "ЮЗАО"
+    },
+    "speciality": "инженер",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 14,
+    "graduation_year": 2006
+  },
+  {
+    "full_name": "Иванова Мария Сергеевна",
+    "age": 38,
+    "address": {
+      "city": "Санкт-Петербург",
+      "district": "Петроградский"
+    },
+    "speciality": "учитель",
+    "desired_course": "управление проектами",
+    "years_of_experience": 14,
+    "graduation_year": 2008
+  },
+  {
+    "full_name": "Сергей Иванович Петров",
+    "age": 38,
+    "address": {
+      "city": "Краснодар",
+      "district": "Центральный"
+    },
+    "speciality": "инженер",
+    "desired_course": "бережливое производство",
+    "years_of_experience": 14,
+    "graduation_year": 2008
+  },
+  {
+    "full_name": "Иванова Мария Сергеевна",
+    "age": 35,
+    "address": {
+      "city": "Краснодар",
+      "district": "Прикубанский"
+    },
+    "speciality": "HR-специалист",
+    "desired_course": "HR-аналитика",
+    "years_of_experience": 10,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Анна Сергеевна Козлова",
+    "age": 35,
+    "address": {
+      "city": "Пермь",
+      "district": "Свердловский"
+    },
+    "speciality": "HR-специалист",
+    "desired_course": "HR-аналитика",
+    "years_of_experience": 12,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Крылова Ирина Валерьевна",
+    "age": 35,
+    "address": {
+      "city": "Казань",
+      "district": "Советский"
+    },
+    "speciality": "врач",
+    "desired_course": "медицинская информатика",
+    "years_of_experience": 10,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Смирнова Анна Владимировна",
+    "age": 34,
+    "address": {
+      "city": "Екатеринбург",
+      "district": "Кировский"
+    },
+    "speciality": "менеджер проектов",
+    "desired_course": "управление проектами",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Анна Сергеевна Кузнецова",
+    "age": 35,
+    "address": {
+      "city": "Самара",
+      "district": "Ленинский"
+    },
+    "speciality": "учитель",
+    "desired_course": "цифровая педагогика",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Петрова Елена Владимировна",
+    "age": 38,
+    "address": {
+      "city": "Новосибирск",
+      "district": "Октябрьский"
+    },
+    "speciality": "бухгалтер",
+    "desired_course": "финансовый менеджмент",
+    "years_of_experience": 15,
+    "graduation_year": 2009
+  },
+  {
+    "full_name": "Елена Викторовна Соколова",
+    "age": 34,
+    "address": {
+      "city": "Ростов-на-Дону",
+      "district": "Ворошиловский"
+    },
+    "speciality": "бухгалтер",
+    "desired_course": "финансовый менеджмент",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Петрова Анна Сергеевна",
+    "age": 35,
+    "address": {
+      "city": "Ростов-на-Дону",
+      "district": "Кировский"
+    },
+    "speciality": "бухгалтер",
+    "desired_course": "финансовый менеджмент",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Елена Владимировна Кузнецова",
+    "age": 35,
+    "address": {
+      "city": "Новосибирск",
+      "district": "Центральный"
+    },
+    "speciality": "HR-специалист",
+    "desired_course": "HR-аналитика",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Екатерина Андреевна Крылова",
+    "age": 35,
+    "address": {
+      "city": "Нижний Новгород",
+      "district": "Автозаводский"
+    },
+    "speciality": "аналитик данных",
+    "desired_course": "анализ данных",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Смирнова Екатерина Андреевна",
+    "age": 35,
+    "address": {
+      "city": "Краснодар",
+      "district": "Центральный"
+    },
+    "speciality": "менеджер проектов",
+    "desired_course": "управление проектами",
+    "years_of_experience": 10,
+    "graduation_year": 2011
+  },
+  {
+    "full_name": "Алексей Дмитриевич Соколов",
+    "age": 32,
+    "address": {
+      "city": "Самара",
+      "district": "Октябрьский"
+    },
+    "speciality": "маркетолог",
+    "desired_course": "анализ данных",
+    "years_of_experience": 8,
+    "graduation_year": 2014
+  },
+  {
+    "full_name": "Ирина Соколова",
+    "age": 34,
+    "address": {
+      "city": "Новосибирск",
+      "district": "Центральный"
+    },
+    "speciality": "маркетолог",
+    "desired_course": "анализ данных",
+    "years_of_experience": 10,
+    "graduation_year": 2012
+  },
+  {
+    "full_name": "Петров Алексей Николаевич",
+    "age": 35,
+    "address": {
+      "city": "Новосибирск",
+      "district": "Октябрьский"
+    },
+    "speciality": "специалист по охране труда",
+    "desired_course": "управление проектами",
+    "years_of_experience": 12,
+    "graduation_year": 2011
+  }
+]
