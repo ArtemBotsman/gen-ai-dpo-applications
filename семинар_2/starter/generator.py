@@ -1,9 +1,9 @@
-"""Генератор синтетических заявок на ДПО.
+"""Генератор синтетических заявок на курсы ДПО.
 
-Идея такая: имитируем не хаотичную выдачу модели, а набор заявок из разных
-региональных приёмных комиссий. Для каждой заявки заранее задаём город,
-специальность и небольшой карьерный контекст. LLM заполняет человеческие детали,
-а Pydantic проверяет, что история не развалилась на числах и справочниках.
+Я не отдаю модели задачу в стиле «придумай 50 любых людей», потому что так
+быстро появляются повторяющиеся города, профессии и похожие биографии. Вместо
+этого сначала собираю карточки с городом и специальностью, а модель уже
+дозаполняет человеческие детали: ФИО, район, курс, стаж и год выпуска.
 """
 
 from __future__ import annotations
@@ -96,6 +96,8 @@ SYSTEM_PROMPT = dedent(
 
 
 def build_cohort() -> list[CohortSlot]:
+    # Это основная защита от mode collapse: не надеюсь на случайность модели,
+    # а заранее раскладываю 50 заявок по городам и специальностям.
     cities = [city for city in CITIES for _ in range(CITY_BATCH_SIZE)]
     specialities = [
         speciality
@@ -147,6 +149,9 @@ def generate_one(slot: CohortSlot) -> tuple[Application, int]:
     ]
 
     for attempt in range(1, OUTER_RETRIES + 1):
+        # Внутренние ретраи делает make_client(): он повторяет запрос, если JSON
+        # не проходит Pydantic-схему. Внешний цикл нужен на случай, если модель
+        # формально вернула валидную заявку, но поменяла город или специальность.
         application = client.chat.completions.create(
             model=model,
             messages=messages,
@@ -177,6 +182,8 @@ def generate_one(slot: CohortSlot) -> tuple[Application, int]:
 def flatten_application(application: Application) -> dict[str, str | int]:
     data = application.model_dump()
     address = data.pop("address")
+    # В CSV вложенные объекты неудобны, поэтому address разворачиваю в две
+    # отдельные колонки. Так проще строить графики и проверять распределения.
     return {
         "full_name": data["full_name"],
         "age": data["age"],
@@ -221,6 +228,8 @@ def top_share(counts: Counter[str]) -> float:
 
 
 def normalized_entropy(counts: Counter[str]) -> float:
+    # Энтропия дополняет долю самой частой категории: она показывает, насколько
+    # всё распределение похоже на равномерное, а не только кто занял первое место.
     total = sum(counts.values())
     probabilities = [value / total for value in counts.values()]
     entropy = -sum(p * log(p) for p in probabilities if p)
