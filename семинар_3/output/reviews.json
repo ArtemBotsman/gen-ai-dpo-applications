@@ -1,0 +1,614 @@
+[
+  {
+    "author": "Мария К.",
+    "rating": 4,
+    "platform": "ios",
+    "review_date": "2025-10-15",
+    "app_version": "3.2.1",
+    "body": "Приложение в целом удобное, но иногда подвисает при переводе крупной суммы. Дизайн современный, всё на своих местах.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "иногда подвисает при переводе крупной суммы"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Иван П.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-11-02",
+    "app_version": "3.1.8",
+    "body": "После обновления стало тормозить на старом телефоне. Экран оплаты по QR грузится по 10 секунд. В Тинькофф такого нет.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 4,
+        "quote": "Экран оплаты по QR грузится по 10 секунд"
+      }
+    ],
+    "competitor_mentions": [
+      "Тинькофф"
+    ]
+  },
+  {
+    "author": "Ольга С.",
+    "rating": 5,
+    "platform": "rustore",
+    "review_date": "2025-09-20",
+    "app_version": "3.0.5",
+    "body": "Пользуюсь полгода, переводы мгновенные, интерфейс приятный. Поддержка один раз помогла за пять минут в чате.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Дмитрий Л.",
+    "rating": 1,
+    "platform": "android",
+    "review_date": "2025-11-18",
+    "app_version": "3.2.0",
+    "body": "Третий раз вылетает при входе по Face ID. Надёжность на нуле. Деньги на счёте, а зайти нельзя.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 5,
+        "quote": "Третий раз вылетает при входе по Face ID"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Анна В.",
+    "rating": 3,
+    "platform": "ios",
+    "review_date": "2025-10-28",
+    "app_version": "3.2.1",
+    "body": "Нормальное приложение, но реклама кредиток после каждого платежа уже надоела. Цены на обслуживание выше, чем обещали в рекламе.",
+    "issues": [
+      {
+        "category": "ads",
+        "severity": 3,
+        "quote": "реклама кредиток после каждого платежа уже надоела"
+      },
+      {
+        "category": "price",
+        "severity": 4,
+        "quote": "Цены на обслуживание выше, чем обещали в рекламе"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Сергей Н.",
+    "rating": 4,
+    "platform": "android",
+    "review_date": "2025-08-14",
+    "app_version": "2.9.4",
+    "body": "Быстрое, лёгкое, дизайн минималистичный. Иногда подвисает история операций.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "иногда подвисает история операций"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Елена Р.",
+    "rating": 2,
+    "platform": "ios",
+    "review_date": "2025-11-05",
+    "app_version": "3.2.1",
+    "body": "Писала в поддержку по поводу двойного списания — ответили через сутки. Для банка это долго.",
+    "issues": [
+      {
+        "category": "support",
+        "severity": 3,
+        "quote": "ответили через сутки"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Павел Г.",
+    "rating": 5,
+    "platform": "android",
+    "review_date": "2025-07-30",
+    "app_version": "2.8.0",
+    "body": "Лучшее приложение среди банков, где был. Всё стабильно, красиво, без лишней рекламы.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Татьяна М.",
+    "rating": 3,
+    "platform": "rustore",
+    "review_date": "2025-10-01",
+    "app_version": "3.1.0",
+    "body": "Банкомат на карте показывает не всегда верно. Производительность средняя, зато дизайн аккуратный.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 2,
+        "quote": "Банкомат на карте показывает не всегда верно"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Алексей Ф.",
+    "rating": 1,
+    "platform": "android",
+    "review_date": "2025-11-20",
+    "app_version": "3.2.2",
+    "body": "Обновился — и перестал работать на Android 8. Краш при запуске. Надёжность под вопросом.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 5,
+        "quote": "перестал работать на Android 8. Краш при запуске"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Юлия Д.",
+    "rating": 4,
+    "platform": "ios",
+    "review_date": "2025-09-08",
+    "app_version": "3.1.5",
+    "body": "Нравится раздел накоплений, но баннеры про страховку мешают. Цена тарифа выросла без предупреждения.",
+    "issues": [
+      {
+        "category": "ads",
+        "severity": 3,
+        "quote": "баннеры про страховку мешают"
+      },
+      {
+        "category": "price",
+        "severity": 3,
+        "quote": "Цена тарифа выросла без предупреждения"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Никита Б.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-10-22",
+    "app_version": "3.2.0",
+    "body": "QR-оплата работает, но камера долго фокусируется. В Сбере быстрее.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "камера долго фокусируется"
+      }
+    ],
+    "competitor_mentions": [
+      "Сбер"
+    ]
+  },
+  {
+    "author": "Виктория З.",
+    "rating": 5,
+    "platform": "ios",
+    "review_date": "2025-06-12",
+    "app_version": "3.0.0",
+    "body": "Стабильно, красиво, поддержка отзывчивая. Рекламы почти нет.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Роман Ч.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-11-10",
+    "app_version": "3.2.1",
+    "body": "Приложение жрёт батарею и греет телефон. Производительность хромает на флагмане 2023 года.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 4,
+        "quote": "Приложение жрёт батарею и греет телефон"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Ирина Е.",
+    "rating": 4,
+    "platform": "rustore",
+    "review_date": "2025-08-25",
+    "app_version": "3.0.8",
+    "body": "Удобно платить ЖКХ, история понятная. Один раз зависло при подтверждении СМС.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 2,
+        "quote": "Один раз зависло при подтверждении СМС"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Максим Т.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-10-05",
+    "app_version": "3.1.9",
+    "body": "Дизайн устарел по сравнению с конкурентами. Функционал норм, но интерфейс перегружен.",
+    "issues": [
+      {
+        "category": "design",
+        "severity": 3,
+        "quote": "Дизайн устарел по сравнению с конкурентами. интерфейс перегружен"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Светлана Я.",
+    "rating": 2,
+    "platform": "ios",
+    "review_date": "2025-11-14",
+    "app_version": "3.2.2",
+    "body": "Три дня не могла дозвониться в поддержку, в чате бот отвечал шаблонами. Проблему так и не решили.",
+    "issues": [
+      {
+        "category": "support",
+        "severity": 4,
+        "quote": "Три дня не могла дозвониться в поддержку, в чате бот отвечал шаблонами"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Артём Ш.",
+    "rating": 5,
+    "platform": "android",
+    "review_date": "2025-05-19",
+    "app_version": "2.7.2",
+    "body": "Работает без сбоев уже год. Переводы, вклады, всё ок. Цена обслуживания устраивает.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Ксения Л.",
+    "rating": 3,
+    "platform": "ios",
+    "review_date": "2025-09-30",
+    "app_version": "3.1.7",
+    "body": "После редизайна стало красивее, но часть кнопок переехала. Привыкала неделю.",
+    "issues": [
+      {
+        "category": "design",
+        "severity": 2,
+        "quote": "часть кнопок переехала. Привыкала неделю"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Георгий П.",
+    "rating": 1,
+    "platform": "android",
+    "review_date": "2025-11-22",
+    "app_version": "3.2.2",
+    "body": "Списали комиссию дважды за перевод. Приложение не показало ошибку, деньги ушли. Надёжность ужас.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 5,
+        "quote": "Списали комиссию дважды за перевод. Приложение не показало ошибку"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Дарья К.",
+    "rating": 4,
+    "platform": "rustore",
+    "review_date": "2025-08-03",
+    "app_version": "3.0.2",
+    "body": "Нормальный банк, приложение шустрое. Реклама кредитов есть, но не навязчивая.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Олег В.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-10-18",
+    "app_version": "3.2.0",
+    "body": "Постоянно всплывают предложения оформить карту. Реклама после каждого входа раздражает.",
+    "issues": [
+      {
+        "category": "ads",
+        "severity": 3,
+        "quote": "Постоянно всплывают предложения оформить карту. Реклама после каждого входа раздражает"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Наталья И.",
+    "rating": 5,
+    "platform": "ios",
+    "review_date": "2025-07-07",
+    "app_version": "3.0.4",
+    "body": "Всё летает, дизайн на уровне. Поддержка помогла восстановить доступ за 10 минут.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Владислав О.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-11-01",
+    "app_version": "3.2.1",
+    "body": "Средне. Иногда тормозит при открытии вкладки «Платежи». В остальном терпимо.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "Иногда тормозит при открытии вкладки «Платежи»"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Полина А.",
+    "rating": 4,
+    "platform": "ios",
+    "review_date": "2025-09-15",
+    "app_version": "3.1.6",
+    "body": "Хороший UX, но платный тариф подорожал с нового года. Об этом узнала из push, а не из договора.",
+    "issues": [
+      {
+        "category": "price",
+        "severity": 3,
+        "quote": "платный тариф подорожал с нового года"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Егор С.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-11-08",
+    "app_version": "3.2.1",
+    "body": "Вылетает при сканировании чека. Уже три раза. Производительность и стабильность — слабое место.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 4,
+        "quote": "Вылетает при сканировании чека. Уже три раза"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Алина Ж.",
+    "rating": 5,
+    "platform": "rustore",
+    "review_date": "2025-06-28",
+    "app_version": "2.9.0",
+    "body": "Пользуюсь с открытия счёта. Ни одного серьёзного сбоя. Дизайн приятный, рекламы нет.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Кирилл М.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-10-12",
+    "app_version": "3.1.8",
+    "body": "Норм, но push-уведомления о «выгодных» кредитах приходят слишком часто. Цена услуг не самая низкая.",
+    "issues": [
+      {
+        "category": "ads",
+        "severity": 3,
+        "quote": "push-уведомления о «выгодных» кредитах приходят слишком часто"
+      },
+      {
+        "category": "price",
+        "severity": 2,
+        "quote": "Цена услуг не самая низкая"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Людмила Ф.",
+    "rating": 1,
+    "platform": "ios",
+    "review_date": "2025-11-19",
+    "app_version": "3.2.2",
+    "body": "Не приходит СМС для входа уже второй день. Поддержка молчит. Приложение бесполезно без авторизации.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 5,
+        "quote": "Не приходит СМС для входа уже второй день"
+      },
+      {
+        "category": "support",
+        "severity": 4,
+        "quote": "Поддержка молчит"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Станислав Р.",
+    "rating": 4,
+    "platform": "android",
+    "review_date": "2025-08-20",
+    "app_version": "3.0.9",
+    "body": "Быстрые переводы, удобная история. Раз в неделю подтормаживает загрузка курсов валют.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "Раз в неделю подтормаживает загрузка курсов валют"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Вера Н.",
+    "rating": 3,
+    "platform": "ios",
+    "review_date": "2025-09-25",
+    "app_version": "3.1.4",
+    "body": "Дизайн хороший, но тёмная тема работает криво на iOS 17 — текст сливается.",
+    "issues": [
+      {
+        "category": "design",
+        "severity": 3,
+        "quote": "тёмная тема работает криво на iOS 17 — текст сливается"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Тимур Х.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-11-12",
+    "app_version": "3.2.1",
+    "body": "Реклама страховки блокирует полэкрана на главной. Убрать нельзя. Раздражает.",
+    "issues": [
+      {
+        "category": "ads",
+        "severity": 4,
+        "quote": "Реклама страховки блокирует полэкрана на главной"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Милана У.",
+    "rating": 5,
+    "platform": "rustore",
+    "review_date": "2025-07-15",
+    "app_version": "3.0.1",
+    "body": "Супер приложение, всё понятно даже маме 60 лет. Поддержка вежливая.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Фёдор Ц.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-10-30",
+    "app_version": "3.2.0",
+    "body": "Работает, но после обновления стало дольше грузиться splash-экран. Производительность упала.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 3,
+        "quote": "после обновления стало дольше грузиться splash-экран"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Яна Г.",
+    "rating": 4,
+    "platform": "ios",
+    "review_date": "2025-08-08",
+    "app_version": "3.0.7",
+    "body": "Нравится, пользуюсь каждый день. Комиссия за снятие наличных выше, чем у ВТБ.",
+    "issues": [
+      {
+        "category": "price",
+        "severity": 3,
+        "quote": "Комиссия за снятие наличных выше, чем у ВТБ"
+      }
+    ],
+    "competitor_mentions": [
+      "ВТБ"
+    ]
+  },
+  {
+    "author": "Борис К.",
+    "rating": 1,
+    "platform": "android",
+    "review_date": "2025-11-21",
+    "app_version": "3.2.2",
+    "body": "Потерял 5000 из-за зависшего платежа — статус «в обработке» сутки. Надёжность нулевая.",
+    "issues": [
+      {
+        "category": "reliability",
+        "severity": 5,
+        "quote": "Потерял 5000 из-за зависшего платежа — статус «в обработке» сутки"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Зоя П.",
+    "rating": 4,
+    "platform": "ios",
+    "review_date": "2025-09-02",
+    "app_version": "3.1.2",
+    "body": "Красивое и удобное. Иногда подвисает при смене карты по умолчанию.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 2,
+        "quote": "Иногда подвисает при смене карты по умолчанию"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Илья Д.",
+    "rating": 3,
+    "platform": "android",
+    "review_date": "2025-10-25",
+    "app_version": "3.2.0",
+    "body": "Средний банк. Приложение норм, но поддержка отвечает шаблонами. Дизайн обычный.",
+    "issues": [
+      {
+        "category": "support",
+        "severity": 2,
+        "quote": "поддержка отвечает шаблонами"
+      }
+    ],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Карина С.",
+    "rating": 5,
+    "platform": "rustore",
+    "review_date": "2025-06-05",
+    "app_version": "2.8.5",
+    "body": "Отличная скорость, стабильность на уровне. Рекламы не заметила.",
+    "issues": [],
+    "competitor_mentions": []
+  },
+  {
+    "author": "Михаил Ю.",
+    "rating": 2,
+    "platform": "android",
+    "review_date": "2025-11-16",
+    "app_version": "3.2.1",
+    "body": "Тормозит на слабом интернете, экран белеет. Производительность слабая в метро.",
+    "issues": [
+      {
+        "category": "performance",
+        "severity": 3,
+        "quote": "Тормозит на слабом интернете, экран белеет"
+      }
+    ],
+    "competitor_mentions": []
+  }
+]

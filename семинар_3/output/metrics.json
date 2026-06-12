@@ -1,0 +1,82 @@
+{
+  "input_reviews": 40,
+  "extracted_reviews": 40,
+  "validation_errors": 0,
+  "ghost_quotes_fixed": 0,
+  "ghost_quotes_discovered": 0,
+  "ghost_quote_share": 0.0,
+  "overall_score": 1.0,
+  "elapsed_sec": 56.8,
+  "prompt_tokens": 18480,
+  "completion_tokens": 9211,
+  "estimated_cost_usd": 0.0151,
+  "aspect_comparison": {
+    "fixed_literal_aspects": [
+      "ads",
+      "design",
+      "performance",
+      "price",
+      "reliability",
+      "support"
+    ],
+    "fixed_used_in_run": [
+      "ads",
+      "design",
+      "performance",
+      "price",
+      "reliability",
+      "support"
+    ],
+    "discovered_topic_names": [
+      "app_crashes",
+      "battery_drain",
+      "customer_support",
+      "design_issues",
+      "excessive_advertising",
+      "hidden_fees",
+      "performance_lag"
+    ],
+    "dynamic_used_in_run": [
+      "app_crashes",
+      "battery_drain",
+      "customer_support",
+      "design_issues",
+      "excessive_advertising",
+      "hidden_fees",
+      "performance_lag"
+    ],
+    "only_in_discovered_run": [
+      "app_crashes",
+      "battery_drain",
+      "customer_support",
+      "design_issues",
+      "excessive_advertising",
+      "hidden_fees",
+      "performance_lag"
+    ],
+    "only_in_fixed_run": [
+      "ads",
+      "design",
+      "performance",
+      "price",
+      "reliability",
+      "support"
+    ],
+    "invented_not_in_literal": [
+      "app_crashes",
+      "battery_drain",
+      "customer_support",
+      "design_issues",
+      "excessive_advertising",
+      "hidden_fees",
+      "performance_lag"
+    ],
+    "literal_never_mentioned": []
+  },
+  "multi_doc_headline": "Приложение хвалят за дизайн, но критикуют за технические сбои, навязчивую рекламу и скрытые платежи.",
+  "judge_verdicts": {
+    "supported": 5,
+    "weakly_supported": 0,
+    "not_supported": 0
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "fixed_literal_aspects": [
+    "ads",
+    "design",
+    "performance",
+    "price",
+    "reliability",
+    "support"
+  ],
+  "fixed_used_in_run": [
+    "ads",
+    "design",
+    "performance",
+    "price",
+    "reliability",
+    "support"
+  ],
+  "discovered_topic_names": [
+    "app_crashes",
+    "battery_drain",
+    "customer_support",
+    "design_issues",
+    "excessive_advertising",
+    "hidden_fees",
+    "performance_lag"
+  ],
+  "dynamic_used_in_run": [
+    "app_crashes",
+    "battery_drain",
+    "customer_support",
+    "design_issues",
+    "excessive_advertising",
+    "hidden_fees",
+    "performance_lag"
+  ],
+  "only_in_discovered_run": [
+    "app_crashes",
+    "battery_drain",
+    "customer_support",
+    "design_issues",
+    "excessive_advertising",
+    "hidden_fees",
+    "performance_lag"
+  ],
+  "only_in_fixed_run": [
+    "ads",
+    "design",
+    "performance",
+    "price",
+    "reliability",
+    "support"
+  ],
+  "invented_not_in_literal": [
+    "app_crashes",
+    "battery_drain",
+    "customer_support",
+    "design_issues",
+    "excessive_advertising",
+    "hidden_fees",
+    "performance_lag"
+  ],
+  "literal_never_mentioned": []
+}
