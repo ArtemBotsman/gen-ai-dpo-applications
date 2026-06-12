@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "question": "Кто жаловался на push-уведомления и маркетинговые пуши?",
+    "type": "прямой",
+    "gold_sources": ["interview_ivan", "support_q3_report", "reviews_digest"],
+    "note": "слово «пуш» / «push» в явном виде"
+  },
+  {
+    "id": 2,
+    "question": "В каких документах описаны проблемы со скоростью приложения?",
+    "type": "синоним",
+    "gold_sources": ["interview_elena", "support_q3_report", "reviews_digest"],
+    "note": "«лагает», «тормозит», «подвисает» — синонимы скорости"
+  },
+  {
+    "id": 3,
+    "question": "Где упоминается тариф «Бизнес-Плюс»?",
+    "type": "точный артикул",
+    "gold_sources": ["interview_ivan", "competitor_tbank", "reviews_digest"],
+    "note": "точное название тарифа, BM25 должен находить лучше fixed-чанков"
+  },
+  {
+    "id": 4,
+    "question": "Кто одновременно жаловался и на цену подписки, и на дизайн интерфейса?",
+    "type": "multi-hop",
+    "gold_sources": ["focus_group_spring"],
+    "note": "Дмитрий: 1890 за Сфера Плюс + «дизайн выглядит дёшево» в одном документе"
+  },
+  {
+    "id": 5,
+    "question": "В каких материалах фигурирует ФЗ-152?",
+    "type": "точный артикул",
+    "gold_sources": ["compliance_audit", "incident_march2025", "feature_biometrics"],
+    "note": "юридический термин в нескольких документах"
+  },
+  {
+    "id": 6,
+    "question": "Где пользователи недовольны интерфейсом или навигацией?",
+    "type": "синоним",
+    "gold_sources": ["interview_elena", "focus_group_spring", "reviews_digest"],
+    "note": "«интерфейс устарел», «кнопка уехала», «запутанный»"
+  },
+  {
+    "id": 7,
+    "question": "Где хвалят службу поддержки?",
+    "type": "позитив",
+    "gold_sources": ["support_q3_report", "focus_group_spring", "reviews_digest"],
+    "note": "Кирилл в ФГ, отчёт L2, отзывы в сторах"
+  },
+  {
+    "id": 8,
+    "question": "Где описаны технические проблемы с оплатой, списаниями или зависшими переводами?",
+    "type": "перефраз",
+    "gold_sources": ["interview_elena", "incident_march2025", "support_q3_report"],
+    "note": "двойное списание, зависший СБП — без слова «оплата» в вопросе"
+  },
+  {
+    "id": 9,
+    "question": "Кто одновременно пользуется «Сферой» и Т-Банком?",
+    "type": "multi-hop",
+    "gold_sources": ["interview_ivan", "research_maria", "competitor_tbank"],
+    "note": "нужно связать упоминания обоих банков; сложный cross-doc"
+  },
+  {
+    "id": 10,
+    "question": "В каких документах упоминается СБП?",
+    "type": "точный артикул",
+    "gold_sources": ["interview_ivan", "support_q3_report", "reviews_digest"],
+    "note": "аббревиатура, важна для BM25"
+  },
+  {
+    "id": 11,
+    "question": "Где обсуждают разряд батареи на iOS?",
+    "type": "перефраз",
+    "gold_sources": ["focus_group_spring"],
+    "note": "Алина: 18% за день — редкий термин, проверка точного попадания"
+  },
+  {
+    "id": 12,
+    "question": "Какие источники описывают инцидент с двойными списаниями в марте 2025?",
+    "type": "multi-hop",
+    "gold_sources": ["incident_march2025", "interview_elena", "reviews_digest"],
+    "note": "связать постмортем, интервью и дайджест отзывов"
+  }
+]
