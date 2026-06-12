@@ -29,6 +29,18 @@ python generate_input.py
 python pipeline.py input output
 ```
 
+## Семинар 4 — RAG и сравнение чанкинга
+
+Папка: `семинар_4`
+
+Свой корпус документов «Сфера Банк», gold-разметка, RAG с гибридным поиском, сравнение fixed vs recursive чанкинга.
+
+```bash
+cd семинар_4
+pip install -r requirements.txt
+python eval.py --compare
+```
+
 ## Настройка LLM
 
 Токен кладём в локальный `.env` (см. `.env.example` в каждой папке). В репозиторий `.env` не коммитим.

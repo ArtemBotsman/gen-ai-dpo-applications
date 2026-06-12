@@ -1,0 +1,18 @@
+{
+  "chunking": "recursive",
+  "files": 10,
+  "chunks": 155,
+  "avg_chunks_per_file": 15.5,
+  "per_file": {
+    "competitor_tbank": 15,
+    "compliance_audit": 14,
+    "feature_biometrics": 13,
+    "focus_group_spring": 15,
+    "incident_march2025": 14,
+    "interview_elena": 15,
+    "interview_ivan": 17,
+    "research_maria": 21,
+    "reviews_digest": 14,
+    "support_q3_report": 17
+  }
+}

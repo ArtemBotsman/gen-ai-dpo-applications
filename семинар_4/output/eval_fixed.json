@@ -1,0 +1,317 @@
+{
+  "chunking": "fixed",
+  "k": 5,
+  "mean": 0.5833333333333334,
+  "total_hits": 7.0,
+  "n_questions": 12,
+  "results": [
+    {
+      "id": 1,
+      "type": "прямой",
+      "question": "Кто жаловался на push-уведомления и маркетинговые пуши?",
+      "score": 0.6666666666666666,
+      "gold": [
+        "interview_ivan",
+        "support_q3_report",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "support_q3_report",
+        "research_maria",
+        "competitor_tbank",
+        "competitor_tbank",
+        "reviews_digest"
+      ],
+      "retrieved_ids": [
+        "support_q3_report__1",
+        "research_maria__0",
+        "competitor_tbank__1",
+        "competitor_tbank__0",
+        "reviews_digest__0"
+      ],
+      "note": "слово «пуш» / «push» в явном виде"
+    },
+    {
+      "id": 2,
+      "type": "синоним",
+      "question": "В каких документах описаны проблемы со скоростью приложения?",
+      "score": 0.3333333333333333,
+      "gold": [
+        "interview_elena",
+        "support_q3_report",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "research_maria",
+        "competitor_tbank",
+        "compliance_audit",
+        "compliance_audit",
+        "interview_elena"
+      ],
+      "retrieved_ids": [
+        "research_maria__0",
+        "competitor_tbank__1",
+        "compliance_audit__1",
+        "compliance_audit__0",
+        "interview_elena__0"
+      ],
+      "note": "«лагает», «тормозит», «подвисает» — синонимы скорости"
+    },
+    {
+      "id": 3,
+      "type": "точный артикул",
+      "question": "Где упоминается тариф «Бизнес-Плюс»?",
+      "score": 0.6666666666666666,
+      "gold": [
+        "interview_ivan",
+        "competitor_tbank",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "focus_group_spring",
+        "interview_elena",
+        "competitor_tbank",
+        "research_maria",
+        "reviews_digest"
+      ],
+      "retrieved_ids": [
+        "focus_group_spring__2",
+        "interview_elena__2",
+        "competitor_tbank__2",
+        "research_maria__2",
+        "reviews_digest__1"
+      ],
+      "note": "точное название тарифа, BM25 должен находить лучше fixed-чанков"
+    },
+    {
+      "id": 4,
+      "type": "multi-hop",
+      "question": "Кто одновременно жаловался и на цену подписки, и на дизайн интерфейса?",
+      "score": 1.0,
+      "gold": [
+        "focus_group_spring"
+      ],
+      "retrieved_sources": [
+        "interview_elena",
+        "interview_ivan",
+        "focus_group_spring",
+        "research_maria",
+        "competitor_tbank"
+      ],
+      "retrieved_ids": [
+        "interview_elena__1",
+        "interview_ivan__1",
+        "focus_group_spring__0",
+        "research_maria__0",
+        "competitor_tbank__0"
+      ],
+      "note": "Дмитрий: 1890 за Сфера Плюс + «дизайн выглядит дёшево» в одном документе"
+    },
+    {
+      "id": 5,
+      "type": "точный артикул",
+      "question": "В каких материалах фигурирует ФЗ-152?",
+      "score": 1.0,
+      "gold": [
+        "compliance_audit",
+        "incident_march2025",
+        "feature_biometrics"
+      ],
+      "retrieved_sources": [
+        "incident_march2025",
+        "compliance_audit",
+        "feature_biometrics",
+        "competitor_tbank",
+        "interview_ivan"
+      ],
+      "retrieved_ids": [
+        "incident_march2025__2",
+        "compliance_audit__0",
+        "feature_biometrics__1",
+        "competitor_tbank__2",
+        "interview_ivan__2"
+      ],
+      "note": "юридический термин в нескольких документах"
+    },
+    {
+      "id": 6,
+      "type": "синоним",
+      "question": "Где пользователи недовольны интерфейсом или навигацией?",
+      "score": 0.0,
+      "gold": [
+        "interview_elena",
+        "focus_group_spring",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "research_maria",
+        "support_q3_report",
+        "support_q3_report",
+        "feature_biometrics",
+        "competitor_tbank"
+      ],
+      "retrieved_ids": [
+        "research_maria__0",
+        "support_q3_report__0",
+        "support_q3_report__1",
+        "feature_biometrics__0",
+        "competitor_tbank__1"
+      ],
+      "note": "«интерфейс устарел», «кнопка уехала», «запутанный»"
+    },
+    {
+      "id": 7,
+      "type": "позитив",
+      "question": "Где хвалят службу поддержки?",
+      "score": 0.3333333333333333,
+      "gold": [
+        "support_q3_report",
+        "focus_group_spring",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "support_q3_report",
+        "research_maria",
+        "compliance_audit",
+        "competitor_tbank",
+        "competitor_tbank"
+      ],
+      "retrieved_ids": [
+        "support_q3_report__0",
+        "research_maria__0",
+        "compliance_audit__1",
+        "competitor_tbank__2",
+        "competitor_tbank__1"
+      ],
+      "note": "Кирилл в ФГ, отчёт L2, отзывы в сторах"
+    },
+    {
+      "id": 8,
+      "type": "перефраз",
+      "question": "Где описаны технические проблемы с оплатой, списаниями или зависшими переводами?",
+      "score": 0.3333333333333333,
+      "gold": [
+        "interview_elena",
+        "incident_march2025",
+        "support_q3_report"
+      ],
+      "retrieved_sources": [
+        "research_maria",
+        "competitor_tbank",
+        "feature_biometrics",
+        "compliance_audit",
+        "incident_march2025"
+      ],
+      "retrieved_ids": [
+        "research_maria__0",
+        "competitor_tbank__0",
+        "feature_biometrics__1",
+        "compliance_audit__1",
+        "incident_march2025__1"
+      ],
+      "note": "двойное списание, зависший СБП — без слова «оплата» в вопросе"
+    },
+    {
+      "id": 9,
+      "type": "multi-hop",
+      "question": "Кто одновременно пользуется «Сферой» и Т-Банком?",
+      "score": 0.6666666666666666,
+      "gold": [
+        "interview_ivan",
+        "research_maria",
+        "competitor_tbank"
+      ],
+      "retrieved_sources": [
+        "competitor_tbank",
+        "research_maria",
+        "competitor_tbank",
+        "compliance_audit",
+        "focus_group_spring"
+      ],
+      "retrieved_ids": [
+        "competitor_tbank__0",
+        "research_maria__0",
+        "competitor_tbank__2",
+        "compliance_audit__1",
+        "focus_group_spring__2"
+      ],
+      "note": "нужно связать упоминания обоих банков; сложный cross-doc"
+    },
+    {
+      "id": 10,
+      "type": "точный артикул",
+      "question": "В каких документах упоминается СБП?",
+      "score": 0.3333333333333333,
+      "gold": [
+        "interview_ivan",
+        "support_q3_report",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "competitor_tbank",
+        "incident_march2025",
+        "compliance_audit",
+        "interview_ivan",
+        "interview_elena"
+      ],
+      "retrieved_ids": [
+        "competitor_tbank__2",
+        "incident_march2025__1",
+        "compliance_audit__1",
+        "interview_ivan__2",
+        "interview_elena__2"
+      ],
+      "note": "аббревиатура, важна для BM25"
+    },
+    {
+      "id": 11,
+      "type": "перефраз",
+      "question": "Где обсуждают разряд батареи на iOS?",
+      "score": 1.0,
+      "gold": [
+        "focus_group_spring"
+      ],
+      "retrieved_sources": [
+        "focus_group_spring",
+        "support_q3_report",
+        "interview_elena",
+        "research_maria",
+        "support_q3_report"
+      ],
+      "retrieved_ids": [
+        "focus_group_spring__1",
+        "support_q3_report__1",
+        "interview_elena__0",
+        "research_maria__2",
+        "support_q3_report__0"
+      ],
+      "note": "Алина: 18% за день — редкий термин, проверка точного попадания"
+    },
+    {
+      "id": 12,
+      "type": "multi-hop",
+      "question": "Какие источники описывают инцидент с двойными списаниями в марте 2025?",
+      "score": 0.6666666666666666,
+      "gold": [
+        "incident_march2025",
+        "interview_elena",
+        "reviews_digest"
+      ],
+      "retrieved_sources": [
+        "incident_march2025",
+        "compliance_audit",
+        "focus_group_spring",
+        "interview_elena",
+        "research_maria"
+      ],
+      "retrieved_ids": [
+        "incident_march2025__0",
+        "compliance_audit__1",
+        "focus_group_spring__0",
+        "interview_elena__1",
+        "research_maria__0"
+      ],
+      "note": "связать постмортем, интервью и дайджест отзывов"
+    }
+  ]
+}
