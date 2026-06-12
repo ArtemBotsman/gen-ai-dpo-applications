@@ -1,0 +1,142 @@
+source,author,aspect,sentiment,confidence,quote
+ios_appstore,Мария К.,performance,negative,0.95,иногда подвисает при переводе крупной суммы
+ios_appstore,Мария К.,design,positive,0.95,"Дизайн современный, всё на своих местах"
+ios_appstore,Анна В.,ads,negative,0.95,реклама кредиток после каждого платежа уже надоела
+ios_appstore,Анна В.,price,negative,0.95,"Цены на обслуживание выше, чем обещали в рекламе"
+ios_appstore,Елена Р.,support,negative,0.95,Писала в поддержку по поводу двойного списания — ответили через сутки
+ios_appstore,Юлия Д.,ads,negative,0.95,баннеры про страховку мешают
+ios_appstore,Юлия Д.,price,negative,0.95,Цена тарифа выросла без предупреждения
+ios_appstore,Виктория З.,reliability,positive,0.9,Стабильно
+ios_appstore,Виктория З.,design,positive,0.95,красиво
+ios_appstore,Виктория З.,support,positive,0.95,поддержка отзывчивая
+ios_appstore,Виктория З.,ads,positive,0.9,Рекламы почти нет
+ios_appstore,Светлана Я.,support,negative,0.95,"Три дня не могла дозвониться в поддержку, в чате бот отвечал шаблонами"
+ios_appstore,Ксения Л.,design,neutral,0.9,"После редизайна стало красивее, но часть кнопок переехала"
+ios_appstore,Наталья И.,performance,positive,0.95,Всё летает
+ios_appstore,Наталья И.,design,positive,0.95,дизайн на уровне
+ios_appstore,Наталья И.,support,positive,0.95,Поддержка помогла восстановить доступ за 10 минут
+ios_appstore,Полина А.,design,positive,0.9,Хороший UX
+ios_appstore,Полина А.,price,negative,0.95,платный тариф подорожал с нового года
+ios_appstore,Людмила Ф.,reliability,negative,0.95,Не приходит СМС для входа уже второй день
+ios_appstore,Людмила Ф.,support,negative,0.95,Поддержка молчит
+ios_appstore,Вера Н.,design,neutral,0.9,"Дизайн хороший, но тёмная тема работает криво на iOS 17 — текст сливается"
+ios_appstore,Яна Г.,price,negative,0.95,"Комиссия за снятие наличных выше, чем у ВТБ"
+ios_appstore,Зоя П.,design,positive,0.9,Красивое и удобное
+ios_appstore,Зоя П.,performance,negative,0.95,Иногда подвисает при смене карты по умолчанию
+android_play,Иван П.,performance,negative,0.9,После обновления стало тормозить на старом телефоне.
+android_play,Дмитрий Л.,performance,negative,0.95,Третий раз вылетает при входе по Face ID.
+android_play,Дмитрий Л.,reliability,negative,0.95,Надёжность на нуле.
+android_play,Сергей Н.,performance,positive,0.8,"Быстрое, лёгкое"
+android_play,Сергей Н.,design,positive,0.9,дизайн минималистичный
+android_play,Сергей Н.,performance,negative,0.9,Иногда подвисает история операций.
+android_play,Павел Г.,performance,positive,0.9,Всё стабильно
+android_play,Павел Г.,design,positive,0.9,красиво
+android_play,Павел Г.,ads,positive,0.9,без лишней рекламы
+android_play,Алексей Ф.,performance,negative,0.95,Обновился — и перестал работать на Android 8.
+android_play,Алексей Ф.,reliability,negative,0.95,Надёжность под вопросом.
+android_play,Никита Б.,performance,positive,0.9,QR-оплата работает
+android_play,Никита Б.,performance,negative,0.9,камера долго фокусируется
+android_play,Роман Ч.,performance,negative,0.9,Приложение жрёт батарею и греет телефон.
+android_play,Максим Т.,design,negative,0.9,Дизайн устарел по сравнению с конкурентами.
+android_play,Артём Ш.,reliability,positive,0.9,Работает без сбоев уже год.
+android_play,Артём Ш.,price,positive,0.9,Цена обслуживания устраивает.
+android_play,Георгий П.,reliability,negative,0.95,Списали комиссию дважды за перевод.
+android_play,Олег В.,ads,negative,0.9,Постоянно всплывают предложения оформить карту.
+android_play,Владислав О.,performance,negative,0.9,Иногда тормозит при открытии вкладки «Платежи».
+android_play,Егор С.,performance,negative,0.9,Вылетает при сканировании чека.
+android_play,Егор С.,reliability,negative,0.9,стабильность — слабое место
+android_play,Кирилл М.,ads,negative,0.9,push-уведомления о «выгодных» кредитах приходят слишком часто.
+android_play,Кирилл М.,price,negative,0.9,Цена услуг не самая низкая.
+android_play,Станислав Р.,performance,positive,0.9,Быстрые переводы
+android_play,Станислав Р.,design,positive,0.9,удобная история
+android_play,Станислав Р.,performance,negative,0.9,Раз в неделю подтормаживает загрузка курсов валют.
+android_play,Тимур Х.,ads,negative,0.95,Реклама страховки блокирует полэкрана на главной.
+android_play,Фёдор Ц.,performance,positive,0.85,Работает
+android_play,Фёдор Ц.,performance,negative,0.9,после обновления стало дольше грузиться splash-экран.
+android_play,Борис К.,reliability,negative,0.95,Потерял 5000 из-за зависшего платежа
+android_play,Илья Д.,support,negative,0.8,поддержка отвечает шаблонами.
+android_play,Илья Д.,design,neutral,0.8,Дизайн обычный.
+android_play,Михаил Ю.,performance,negative,0.9,"Тормозит на слабом интернете, экран белеет."
+rustore,Ольга С.,performance,positive,1.0,переводы мгновенные
+rustore,Ольга С.,design,positive,1.0,интерфейс приятный
+rustore,Ольга С.,support,positive,1.0,Поддержка один раз помогла за пять минут в чате
+rustore,Татьяна М.,performance,neutral,0.9,Производительность средняя
+rustore,Татьяна М.,design,positive,1.0,дизайн аккуратный
+rustore,Татьяна М.,reliability,negative,1.0,Банкомат на карте показывает не всегда верно
+rustore,Ирина Е.,reliability,negative,1.0,Один раз зависло при подтверждении СМС
+rustore,Дарья К.,performance,positive,1.0,приложение шустрое
+rustore,Дарья К.,ads,neutral,0.9,"Реклама кредитов есть, но не навязчивая"
+rustore,Алина Ж.,reliability,positive,1.0,Ни одного серьёзного сбоя
+rustore,Алина Ж.,design,positive,1.0,Дизайн приятный
+rustore,Алина Ж.,ads,positive,1.0,рекламы нет
+rustore,Милана У.,design,positive,0.9,всё понятно даже маме 60 лет
+rustore,Милана У.,support,positive,1.0,Поддержка вежливая
+rustore,Карина С.,performance,positive,1.0,"Отличная скорость, стабильность на уровне"
+rustore,Карина С.,ads,positive,1.0,Рекламы не заметила
+wave_summer_2025,Сергей Н.,performance,negative,0.9,Иногда подвисает история операций.
+wave_summer_2025,Сергей Н.,design,positive,0.9,дизайн минималистичный
+wave_summer_2025,Павел Г.,reliability,positive,0.9,Всё стабильно
+wave_summer_2025,Павел Г.,design,positive,0.9,красиво
+wave_summer_2025,Павел Г.,ads,positive,0.9,без лишней рекламы
+wave_summer_2025,Виктория З.,reliability,positive,0.9,Стабильно
+wave_summer_2025,Виктория З.,design,positive,0.9,красиво
+wave_summer_2025,Виктория З.,support,positive,0.9,поддержка отзывчивая
+wave_summer_2025,Виктория З.,ads,positive,0.9,Рекламы почти нет
+wave_summer_2025,Ирина Е.,performance,negative,0.9,Один раз зависло при подтверждении СМС.
+wave_summer_2025,Артём Ш.,reliability,positive,0.9,Работает без сбоев уже год
+wave_summer_2025,Артём Ш.,price,positive,0.9,Цена обслуживания устраивает
+wave_summer_2025,Дарья К.,performance,positive,0.9,приложение шустрое
+wave_summer_2025,Дарья К.,ads,neutral,0.8,"Реклама кредитов есть, но не навязчивая"
+wave_summer_2025,Наталья И.,performance,positive,0.9,Всё летает
+wave_summer_2025,Наталья И.,design,positive,0.9,дизайн на уровне
+wave_summer_2025,Наталья И.,support,positive,0.9,Поддержка помогла восстановить доступ за 10 минут
+wave_summer_2025,Алина Ж.,reliability,positive,0.9,Ни одного серьёзного сбоя
+wave_summer_2025,Алина Ж.,design,positive,0.9,Дизайн приятный
+wave_summer_2025,Алина Ж.,ads,positive,0.9,рекламы нет
+wave_summer_2025,Станислав Р.,performance,negative,0.9,Раз в неделю подтормаживает загрузка курсов валют.
+wave_summer_2025,Милана У.,design,positive,0.9,всё понятно даже маме 60 лет
+wave_summer_2025,Милана У.,support,positive,0.9,Поддержка вежливая
+wave_summer_2025,Яна Г.,price,negative,0.9,"Комиссия за снятие наличных выше, чем у ВТБ."
+wave_summer_2025,Карина С.,performance,positive,0.9,Отличная скорость
+wave_summer_2025,Карина С.,reliability,positive,0.9,стабильность на уровне
+wave_summer_2025,Карина С.,ads,positive,0.9,Рекламы не заметила
+wave_autumn_2025,Мария К.,performance,negative,0.9,иногда подвисает при переводе крупной суммы
+wave_autumn_2025,Мария К.,design,positive,0.9,"Дизайн современный, всё на своих местах"
+wave_autumn_2025,Иван П.,performance,negative,0.9,После обновления стало тормозить на старом телефоне. Экран оплаты по QR грузится по 10 секунд
+wave_autumn_2025,Ольга С.,performance,positive,0.9,переводы мгновенные
+wave_autumn_2025,Ольга С.,design,positive,0.9,интерфейс приятный
+wave_autumn_2025,Ольга С.,support,positive,0.9,Поддержка один раз помогла за пять минут в чате
+wave_autumn_2025,Дмитрий Л.,reliability,negative,0.9,Третий раз вылетает при входе по Face ID. Надёжность на нуле
+wave_autumn_2025,Анна В.,ads,negative,0.9,реклама кредиток после каждого платежа уже надоела
+wave_autumn_2025,Анна В.,price,negative,0.9,"Цены на обслуживание выше, чем обещали в рекламе"
+wave_autumn_2025,Елена Р.,support,negative,0.9,Писала в поддержку по поводу двойного списания — ответили через сутки. Для банка это долго
+wave_autumn_2025,Татьяна М.,performance,neutral,0.7,Производительность средняя
+wave_autumn_2025,Татьяна М.,design,positive,0.9,дизайн аккуратный
+wave_autumn_2025,Алексей Ф.,reliability,negative,0.9,перестал работать на Android 8. Краш при запуске. Надёжность под вопросом
+wave_autumn_2025,Юлия Д.,ads,negative,0.9,баннеры про страховку мешают
+wave_autumn_2025,Юлия Д.,price,negative,0.9,Цена тарифа выросла без предупреждения
+wave_autumn_2025,Никита Б.,performance,negative,0.9,"QR-оплата работает, но камера долго фокусируется"
+wave_autumn_2025,Роман Ч.,performance,negative,0.9,Приложение жрёт батарею и греет телефон. Производительность хромает на флагмане 2023 года
+wave_autumn_2025,Максим Т.,design,negative,0.9,"Дизайн устарел по сравнению с конкурентами. Функционал норм, но интерфейс перегружен"
+wave_autumn_2025,Светлана Я.,support,negative,0.9,"Три дня не могла дозвониться в поддержку, в чате бот отвечал шаблонами. Проблему так и не решили"
+wave_autumn_2025,Ксения Л.,design,positive,0.9,стало красивее
+wave_autumn_2025,Ксения Л.,design,negative,0.8,часть кнопок переехала. Привыкала неделю
+wave_autumn_2025,Георгий П.,reliability,negative,0.9,"Списали комиссию дважды за перевод. Приложение не показало ошибку, деньги ушли. Надёжность ужас"
+wave_autumn_2025,Олег В.,ads,negative,0.9,Постоянно всплывают предложения оформить карту. Реклама после каждого входа раздражает
+wave_autumn_2025,Владислав О.,performance,negative,0.9,Иногда тормозит при открытии вкладки «Платежи»
+wave_autumn_2025,Полина А.,design,positive,0.9,Хороший UX
+wave_autumn_2025,Полина А.,price,negative,0.9,платный тариф подорожал с нового года
+wave_autumn_2025,Егор С.,reliability,negative,0.9,Вылетает при сканировании чека. Уже три раза. Производительность и стабильность — слабое место
+wave_autumn_2025,Кирилл М.,ads,negative,0.9,push-уведомления о «выгодных» кредитах приходят слишком часто
+wave_autumn_2025,Кирилл М.,price,negative,0.9,Цена услуг не самая низкая
+wave_autumn_2025,Людмила Ф.,support,negative,0.9,Не приходит СМС для входа уже второй день. Поддержка молчит
+wave_autumn_2025,Вера Н.,design,positive,0.9,Дизайн хороший
+wave_autumn_2025,Вера Н.,design,negative,0.9,тёмная тема работает криво на iOS 17 — текст сливается
+wave_autumn_2025,Тимур Х.,ads,negative,0.9,Реклама страховки блокирует полэкрана на главной. Убрать нельзя. Раздражает
+wave_autumn_2025,Фёдор Ц.,performance,negative,0.9,после обновления стало дольше грузиться splash-экран. Производительность упала
+wave_autumn_2025,Борис К.,reliability,negative,0.9,Потерял 5000 из-за зависшего платежа — статус «в обработке» сутки. Надёжность нулевая
+wave_autumn_2025,Зоя П.,design,positive,0.9,Красивое и удобное
+wave_autumn_2025,Зоя П.,performance,negative,0.9,Иногда подвисает при смене карты по умолчанию
+wave_autumn_2025,Илья Д.,support,negative,0.9,поддержка отвечает шаблонами
+wave_autumn_2025,Илья Д.,design,neutral,0.7,Дизайн обычный
+wave_autumn_2025,Михаил Ю.,performance,negative,0.9,"Тормозит на слабом интернете, экран белеет. Производительность слабая в метро"

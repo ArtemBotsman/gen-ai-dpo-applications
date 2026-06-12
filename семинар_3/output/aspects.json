@@ -1,0 +1,604 @@
+[
+  {
+    "author": "Мария К.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "иногда подвисает при переводе крупной суммы",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "Дизайн современный, всё на своих местах",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Иван П.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "После обновления стало тормозить на старом телефоне. Экран оплаты по QR грузится по 10 секунд.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Ольга С.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "positive",
+        "quote": "переводы мгновенные",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "интерфейс приятный",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "support",
+        "sentiment": "positive",
+        "quote": "Поддержка один раз помогла за пять минут в чате.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Дмитрий Л.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "negative",
+        "quote": "Третий раз вылетает при входе по Face ID. Надёжность на нуле.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Анна В.",
+    "aspects": [
+      {
+        "aspect": "ads",
+        "sentiment": "negative",
+        "quote": "реклама кредиток после каждого платежа уже надоела",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "price",
+        "sentiment": "negative",
+        "quote": "Цены на обслуживание выше, чем обещали в рекламе.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Сергей Н.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "neutral",
+        "quote": "Быстрое, лёгкое. Иногда подвисает история операций.",
+        "confidence": 0.7
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "дизайн минималистичный",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Елена Р.",
+    "aspects": [
+      {
+        "aspect": "support",
+        "sentiment": "negative",
+        "quote": "Писала в поддержку по поводу двойного списания — ответили через сутки. Для банка это долго.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Павел Г.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "positive",
+        "quote": "Всё стабильно",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "красиво",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "ads",
+        "sentiment": "positive",
+        "quote": "без лишней рекламы",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Татьяна М.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "negative",
+        "quote": "Банкомат на карте показывает не всегда верно",
+        "confidence": 0.8
+      },
+      {
+        "aspect": "performance",
+        "sentiment": "neutral",
+        "quote": "Производительность средняя",
+        "confidence": 0.8
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "дизайн аккуратный",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Алексей Ф.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "negative",
+        "quote": "Обновился — и перестал работать на Android 8. Краш при запуске. Надёжность под вопросом.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Юлия Д.",
+    "aspects": [
+      {
+        "aspect": "ads",
+        "sentiment": "negative",
+        "quote": "баннеры про страховку мешают",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "price",
+        "sentiment": "negative",
+        "quote": "Цена тарифа выросла без предупреждения",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Никита Б.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "камера долго фокусируется",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Виктория З.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "positive",
+        "quote": "Стабильно",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "красиво",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "support",
+        "sentiment": "positive",
+        "quote": "поддержка отзывчивая",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "ads",
+        "sentiment": "positive",
+        "quote": "Рекламы почти нет",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Роман Ч.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Приложение жрёт батарею и греет телефон. Производительность хромает на флагмане 2023 года.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Ирина Е.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Один раз зависло при подтверждении СМС",
+        "confidence": 0.7
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "история понятная",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Максим Т.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "negative",
+        "quote": "Дизайн устарел по сравнению с конкурентами. интерфейс перегружен.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Светлана Я.",
+    "aspects": [
+      {
+        "aspect": "support",
+        "sentiment": "negative",
+        "quote": "Три дня не могла дозвониться в поддержку, в чате бот отвечал шаблонами. Проблему так и не решили.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Артём Ш.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "positive",
+        "quote": "Работает без сбоев уже год",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "price",
+        "sentiment": "positive",
+        "quote": "Цена обслуживания устраивает",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Ксения Л.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "neutral",
+        "quote": "После редизайна стало красивее, но часть кнопок переехала. Привыкала неделю.",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Георгий П.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "negative",
+        "quote": "Списали комиссию дважды за перевод. Приложение не показало ошибку, деньги ушли. Надёжность ужас.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Дарья К.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "positive",
+        "quote": "приложение шустрое",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "ads",
+        "sentiment": "neutral",
+        "quote": "Реклама кредитов есть, но не навязчивая",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "author": "Олег В.",
+    "aspects": [
+      {
+        "aspect": "ads",
+        "sentiment": "negative",
+        "quote": "Постоянно всплывают предложения оформить карту. Реклама после каждого входа раздражает.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Наталья И.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "positive",
+        "quote": "Всё летает",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "дизайн на уровне",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "support",
+        "sentiment": "positive",
+        "quote": "Поддержка помогла восстановить доступ за 10 минут",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Владислав О.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Иногда тормозит при открытии вкладки «Платежи»",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Полина А.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "Хороший UX",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "price",
+        "sentiment": "negative",
+        "quote": "платный тариф подорожал с нового года",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Егор С.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Вылетает при сканировании чека. Уже три раза. Производительность и стабильность — слабое место.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Алина Ж.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "positive",
+        "quote": "Ни одного серьёзного сбоя",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "Дизайн приятный",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "ads",
+        "sentiment": "positive",
+        "quote": "рекламы нет",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Кирилл М.",
+    "aspects": [
+      {
+        "aspect": "ads",
+        "sentiment": "negative",
+        "quote": "push-уведомления о «выгодных» кредитах приходят слишком часто",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "price",
+        "sentiment": "negative",
+        "quote": "Цена услуг не самая низкая",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Людмила Ф.",
+    "aspects": [
+      {
+        "aspect": "support",
+        "sentiment": "negative",
+        "quote": "Поддержка молчит",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Станислав Р.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "neutral",
+        "quote": "Быстрые переводы, но раз в неделю подтормаживает загрузка курсов валют.",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Вера Н.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "neutral",
+        "quote": "Дизайн хороший, но тёмная тема работает криво на iOS 17 — текст сливается.",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Тимур Х.",
+    "aspects": [
+      {
+        "aspect": "ads",
+        "sentiment": "negative",
+        "quote": "Реклама страховки блокирует полэкрана на главной. Убрать нельзя. Раздражает.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Милана У.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "всё понятно даже маме 60 лет",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "support",
+        "sentiment": "positive",
+        "quote": "Поддержка вежливая",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Фёдор Ц.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "после обновления стало дольше грузиться splash-экран. Производительность упала.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Яна Г.",
+    "aspects": [
+      {
+        "aspect": "price",
+        "sentiment": "negative",
+        "quote": "Комиссия за снятие наличных выше, чем у ВТБ",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Борис К.",
+    "aspects": [
+      {
+        "aspect": "reliability",
+        "sentiment": "negative",
+        "quote": "Потерял 5000 из-за зависшего платежа — статус «в обработке» сутки. Надёжность нулевая.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Зоя П.",
+    "aspects": [
+      {
+        "aspect": "design",
+        "sentiment": "positive",
+        "quote": "Красивое и удобное",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Иногда подвисает при смене карты по умолчанию",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Илья Д.",
+    "aspects": [
+      {
+        "aspect": "support",
+        "sentiment": "negative",
+        "quote": "поддержка отвечает шаблонами",
+        "confidence": 0.8
+      },
+      {
+        "aspect": "design",
+        "sentiment": "neutral",
+        "quote": "Дизайн обычный",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "author": "Карина С.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "positive",
+        "quote": "Отличная скорость",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "reliability",
+        "sentiment": "positive",
+        "quote": "стабильность на уровне",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "ads",
+        "sentiment": "positive",
+        "quote": "Рекламы не заметила",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Михаил Ю.",
+    "aspects": [
+      {
+        "aspect": "performance",
+        "sentiment": "negative",
+        "quote": "Тормозит на слабом интернете, экран белеет. Производительность слабая в метро.",
+        "confidence": 0.9
+      }
+    ]
+  }
+]

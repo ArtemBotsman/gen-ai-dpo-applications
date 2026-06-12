@@ -1,0 +1,395 @@
+[
+  {
+    "author": "Мария К.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "иногда подвисает при переводе крупной суммы",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Иван П.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "После обновления стало тормозить на старом телефоне",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Ольга С.",
+    "aspects": []
+  },
+  {
+    "author": "Дмитрий Л.",
+    "aspects": [
+      {
+        "aspect": "app_crashes",
+        "sentiment": "negative",
+        "quote": "Третий раз вылетает при входе по Face ID",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Анна В.",
+    "aspects": [
+      {
+        "aspect": "excessive_advertising",
+        "sentiment": "negative",
+        "quote": "реклама кредиток после каждого платежа уже надоела",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "hidden_fees",
+        "sentiment": "negative",
+        "quote": "Цены на обслуживание выше, чем обещали в рекламе",
+        "confidence": 0.85
+      }
+    ]
+  },
+  {
+    "author": "Сергей Н.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Иногда подвисает история операций",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Елена Р.",
+    "aspects": [
+      {
+        "aspect": "hidden_fees",
+        "sentiment": "negative",
+        "quote": "по поводу двойного списания",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "customer_support",
+        "sentiment": "negative",
+        "quote": "ответили через сутки",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Павел Г.",
+    "aspects": []
+  },
+  {
+    "author": "Татьяна М.",
+    "aspects": []
+  },
+  {
+    "author": "Алексей Ф.",
+    "aspects": [
+      {
+        "aspect": "app_crashes",
+        "sentiment": "negative",
+        "quote": "Обновился — и перестал работать на Android 8. Краш при запуске.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Юлия Д.",
+    "aspects": [
+      {
+        "aspect": "excessive_advertising",
+        "sentiment": "negative",
+        "quote": "баннеры про страховку мешают",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "hidden_fees",
+        "sentiment": "negative",
+        "quote": "Цена тарифа выросла без предупреждения",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Никита Б.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "камера долго фокусируется",
+        "confidence": 0.7
+      }
+    ]
+  },
+  {
+    "author": "Виктория З.",
+    "aspects": []
+  },
+  {
+    "author": "Роман Ч.",
+    "aspects": [
+      {
+        "aspect": "battery_drain",
+        "sentiment": "negative",
+        "quote": "Приложение жрёт батарею и греет телефон",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Производительность хромает на флагмане 2023 года",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Ирина Е.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Один раз зависло при подтверждении СМС",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Максим Т.",
+    "aspects": [
+      {
+        "aspect": "design_issues",
+        "sentiment": "negative",
+        "quote": "Дизайн устарел по сравнению с конкурентами",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Светлана Я.",
+    "aspects": [
+      {
+        "aspect": "customer_support",
+        "sentiment": "negative",
+        "quote": "не могла дозвониться в поддержку, в чате бот отвечал шаблонами. Проблему так и не решили.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Артём Ш.",
+    "aspects": []
+  },
+  {
+    "author": "Ксения Л.",
+    "aspects": [
+      {
+        "aspect": "design_issues",
+        "sentiment": "negative",
+        "quote": "часть кнопок переехала",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Георгий П.",
+    "aspects": [
+      {
+        "aspect": "hidden_fees",
+        "sentiment": "negative",
+        "quote": "Списали комиссию дважды за перевод",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Дарья К.",
+    "aspects": []
+  },
+  {
+    "author": "Олег В.",
+    "aspects": [
+      {
+        "aspect": "excessive_advertising",
+        "sentiment": "negative",
+        "quote": "Постоянно всплывают предложения оформить карту. Реклама после каждого входа раздражает.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Наталья И.",
+    "aspects": []
+  },
+  {
+    "author": "Владислав О.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Иногда тормозит при открытии вкладки «Платежи»",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Полина А.",
+    "aspects": [
+      {
+        "aspect": "hidden_fees",
+        "sentiment": "negative",
+        "quote": "платный тариф подорожал с нового года. Об этом узнала из push, а не из договора.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Егор С.",
+    "aspects": [
+      {
+        "aspect": "app_crashes",
+        "sentiment": "negative",
+        "quote": "Вылетает при сканировании чека",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Производительность и стабильность — слабое место",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Алина Ж.",
+    "aspects": []
+  },
+  {
+    "author": "Кирилл М.",
+    "aspects": [
+      {
+        "aspect": "excessive_advertising",
+        "sentiment": "negative",
+        "quote": "push-уведомления о «выгодных» кредитах приходят слишком часто",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Людмила Ф.",
+    "aspects": [
+      {
+        "aspect": "customer_support",
+        "sentiment": "negative",
+        "quote": "Поддержка молчит",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Станислав Р.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Раз в неделю подтормаживает загрузка курсов валют",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Вера Н.",
+    "aspects": [
+      {
+        "aspect": "design_issues",
+        "sentiment": "negative",
+        "quote": "тёмная тема работает криво на iOS 17 — текст сливается",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Тимур Х.",
+    "aspects": [
+      {
+        "aspect": "excessive_advertising",
+        "sentiment": "negative",
+        "quote": "Реклама страховки блокирует полэкрана на главной. Убрать нельзя. Раздражает.",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Милана У.",
+    "aspects": []
+  },
+  {
+    "author": "Фёдор Ц.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "после обновления стало дольше грузиться splash-экран. Производительность упала.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "author": "Яна Г.",
+    "aspects": []
+  },
+  {
+    "author": "Борис К.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Потерял 5000 из-за зависшего платежа — статус «в обработке» сутки",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "author": "Зоя П.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Иногда подвисает при смене карты по умолчанию",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Илья Д.",
+    "aspects": [
+      {
+        "aspect": "customer_support",
+        "sentiment": "negative",
+        "quote": "поддержка отвечает шаблонами",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "author": "Карина С.",
+    "aspects": []
+  },
+  {
+    "author": "Михаил Ю.",
+    "aspects": [
+      {
+        "aspect": "performance_lag",
+        "sentiment": "negative",
+        "quote": "Тормозит на слабом интернете, экран белеет. Производительность слабая в метро.",
+        "confidence": 0.9
+      }
+    ]
+  }
+]
