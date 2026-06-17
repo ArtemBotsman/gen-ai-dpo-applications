@@ -1,0 +1,6 @@
+.env
+starter/.env
+__pycache__/
+*.pyc
+.DS_Store
+eval_run.log

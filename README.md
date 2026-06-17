@@ -41,6 +41,18 @@ pip install -r requirements.txt
 python eval.py --compare
 ```
 
+## Семинар 5 — макро-агент ЦБ/Росстат
+
+Папка: `семинар_5/starter`
+
+ReAct-агент с инструментами ЦБ и Росстата, `compare_periods`, лог `trace.jsonl`, eval на 10 вопросов.
+
+```bash
+cd семинар_5/starter
+pip install -r requirements.txt
+python eval.py
+```
+
 ## Настройка LLM
 
 Токен кладём в локальный `.env` (см. `.env.example` в каждой папке). В репозиторий `.env` не коммитим.
