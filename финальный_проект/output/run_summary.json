@@ -1,0 +1,15 @@
+{
+  "llm_calls": 67,
+  "total_sec": 365.1,
+  "phases": {
+    "personas_sec": 53.5,
+    "focus_group_sec": 56.9,
+    "analyze_sec": 66.5,
+    "survey_sec": 39.1,
+    "ultimatum_sec": 149.2
+  },
+  "personas": 6,
+  "ultimatum_rounds": 36,
+  "ghost_quote_rate": 0.0,
+  "judge_score": 0.7
+}

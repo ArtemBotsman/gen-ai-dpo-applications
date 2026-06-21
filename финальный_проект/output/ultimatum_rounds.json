@@ -1,0 +1,290 @@
+[
+  {
+    "round_id": "prop_p1",
+    "persona_id": "p1",
+    "role": "proposer",
+    "offer": 40,
+    "accept": null,
+    "reasoning": "Чтобы удовлетворить базовые потребности другого и быть справедливой, предлагаю 40 ₽."
+  },
+  {
+    "round_id": "resp_p1_10",
+    "persona_id": "p1",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Это крайне несправедливое предложение. Я отвергаю его из принципа."
+  },
+  {
+    "round_id": "resp_p1_20",
+    "persona_id": "p1",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Несправедливо, отказываюсь."
+  },
+  {
+    "round_id": "resp_p1_30",
+    "persona_id": "p1",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Предложение 30 из 100 несправедливо, так как оставляет базовые потребности неудовлетворенными и не отражает равного вклада."
+  },
+  {
+    "round_id": "resp_p1_40",
+    "persona_id": "p1",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение 40 ₽ из 100 несправедливо: оставляя себе 60, вы нарушаете принцип равного распределения. Отказываюсь."
+  },
+  {
+    "round_id": "resp_p1_50",
+    "persona_id": "p1",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "Equal split is fair and satisfies basic needs."
+  },
+  {
+    "round_id": "prop_p2",
+    "persona_id": "p2",
+    "role": "proposer",
+    "offer": 40,
+    "accept": null,
+    "reasoning": "Справедливое предложение, учитывающее как вклад, так и базовые потребности."
+  },
+  {
+    "round_id": "resp_p2_10",
+    "persona_id": "p2",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Слишком несправедливое предложение, отвергаю."
+  },
+  {
+    "round_id": "resp_p2_20",
+    "persona_id": "p2",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Это несправедливо: предлагающий оставляет себе 80%, что нарушает принцип равенства и мои представления о справедливом распределении."
+  },
+  {
+    "round_id": "resp_p2_30",
+    "persona_id": "p2",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Предложение несправедливое, я отвергаю из принципа."
+  },
+  {
+    "round_id": "resp_p2_40",
+    "persona_id": "p2",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение 40 рублей из 100 несправедливо, так как я получаю меньше половины. Отказываюсь."
+  },
+  {
+    "round_id": "resp_p2_50",
+    "persona_id": "p2",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "Fair split, both get equal share."
+  },
+  {
+    "round_id": "prop_p3",
+    "persona_id": "p3",
+    "role": "proposer",
+    "offer": 40,
+    "accept": null,
+    "reasoning": "Предлагаю 40 рублей, это честная доля, учитывая, что я тоже вложил труд. Надеюсь, что второй участник согласится, чтобы мы оба получили выгоду."
+  },
+  {
+    "round_id": "resp_p3_10",
+    "persona_id": "p3",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Предложение крайне несправедливое: 10% вместо честного дележа. Даже с учётом обстоятельств, это оскорбительно. Отказ."
+  },
+  {
+    "round_id": "resp_p3_20",
+    "persona_id": "p3",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Предложение слишком несправедливое, я отказываюсь."
+  },
+  {
+    "round_id": "resp_p3_30",
+    "persona_id": "p3",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Предложение несправедливое: 30 из 100 — это слишком мало. По принципу отвергаю, даже если себе в убыток."
+  },
+  {
+    "round_id": "resp_p3_40",
+    "persona_id": "p3",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение несправедливое, меньше половины."
+  },
+  {
+    "round_id": "resp_p3_50",
+    "persona_id": "p3",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "Предложение равное, справедливо."
+  },
+  {
+    "round_id": "prop_p4",
+    "persona_id": "p4",
+    "role": "proposer",
+    "offer": 40,
+    "accept": null,
+    "reasoning": "Fair split considering both parties."
+  },
+  {
+    "round_id": "resp_p4_10",
+    "persona_id": "p4",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Предложение крайне несправедливое, всего 10% от суммы. Отвергаю из принципа справедливости."
+  },
+  {
+    "round_id": "resp_p4_20",
+    "persona_id": "p4",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Такое распределение несправедливо: я получаю лишь 20% при равном вкладе в игру. Отвергаю из принципа."
+  },
+  {
+    "round_id": "resp_p4_30",
+    "persona_id": "p4",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Предложение слишком мало, несправедливо."
+  },
+  {
+    "round_id": "resp_p4_40",
+    "persona_id": "p4",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение в 40% от общей суммы несправедливо, так как при равных условиях каждый должен получить равную долю. Отклоняю из принципа."
+  },
+  {
+    "round_id": "resp_p4_50",
+    "persona_id": "p4",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "Предложение 50% справедливо, соответствует равному вкладу."
+  },
+  {
+    "round_id": "prop_p5",
+    "persona_id": "p5",
+    "role": "proposer",
+    "offer": 50,
+    "accept": null,
+    "reasoning": "Я предлагаю половину, потому что это честно по труду, а в случае отказа оба останемся ни с чем. Помогать нужно, даже если это невыгодно."
+  },
+  {
+    "round_id": "resp_p5_10",
+    "persona_id": "p5",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Это несправедливо: я получаю только 10 из 100, а другой — 90. По принципу справедливости по труду, такое неравенство неприемлемо."
+  },
+  {
+    "round_id": "resp_p5_20",
+    "persona_id": "p5",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Так нечестно, я не принимаю несправедливые предложения."
+  },
+  {
+    "round_id": "resp_p5_30",
+    "persona_id": "p5",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Несправедливо, предлагают всего 30%."
+  },
+  {
+    "round_id": "resp_p5_40",
+    "persona_id": "p5",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение несправедливое: я получаю меньше половины. Мои принципы требуют равного распределения или отказа."
+  },
+  {
+    "round_id": "resp_p5_50",
+    "persona_id": "p5",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "Предложение честное, половина на половину. По справедливости каждый получает по труду, так что принимаю."
+  },
+  {
+    "round_id": "prop_p6",
+    "persona_id": "p6",
+    "role": "proposer",
+    "offer": 40,
+    "accept": null,
+    "reasoning": "Учитывая, что я вложил труд, но важно не допустить несправедливости."
+  },
+  {
+    "round_id": "resp_p6_10",
+    "persona_id": "p6",
+    "role": "responder",
+    "offer": 10,
+    "accept": false,
+    "reasoning": "Это крайне несправедливое предложение. Я отказываюсь от такой незначительной доли, так как это противоречит моим принципам справедливости."
+  },
+  {
+    "round_id": "resp_p6_20",
+    "persona_id": "p6",
+    "role": "responder",
+    "offer": 20,
+    "accept": false,
+    "reasoning": "Слишком несправедливо, отвергаю."
+  },
+  {
+    "round_id": "resp_p6_30",
+    "persona_id": "p6",
+    "role": "responder",
+    "offer": 30,
+    "accept": false,
+    "reasoning": "Это предложение несправедливо: мне предлагают только 30%, а себе оставляют 70%. Отказываюсь из принципа."
+  },
+  {
+    "round_id": "resp_p6_40",
+    "persona_id": "p6",
+    "role": "responder",
+    "offer": 40,
+    "accept": false,
+    "reasoning": "Предложение несправедливое, отвергаю из принципа."
+  },
+  {
+    "round_id": "resp_p6_50",
+    "persona_id": "p6",
+    "role": "responder",
+    "offer": 50,
+    "accept": true,
+    "reasoning": "50-50 split is fair."
+  }
+]

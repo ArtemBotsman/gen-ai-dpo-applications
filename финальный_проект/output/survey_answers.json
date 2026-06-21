@@ -1,0 +1,56 @@
+[
+  {
+    "persona_id": "p1",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 2,
+    "fairness_priority": 5,
+    "min_acceptable_share": 40,
+    "would_punish_unfair": 5
+  },
+  {
+    "persona_id": "p2",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 3,
+    "fairness_priority": 5,
+    "min_acceptable_share": 40,
+    "would_punish_unfair": 4
+  },
+  {
+    "persona_id": "p3",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 2,
+    "fairness_priority": 5,
+    "min_acceptable_share": 30,
+    "would_punish_unfair": 4
+  },
+  {
+    "persona_id": "p4",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 3,
+    "fairness_priority": 4,
+    "min_acceptable_share": 30,
+    "would_punish_unfair": 4
+  },
+  {
+    "persona_id": "p5",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 2,
+    "fairness_priority": 5,
+    "min_acceptable_share": 40,
+    "would_punish_unfair": 5
+  },
+  {
+    "persona_id": "p6",
+    "trust_people": 3,
+    "trust_strangers": 2,
+    "risk_appetite": 3,
+    "fairness_priority": 5,
+    "min_acceptable_share": 40,
+    "would_punish_unfair": 5
+  }
+]

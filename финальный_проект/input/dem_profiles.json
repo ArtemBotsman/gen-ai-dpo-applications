@@ -1,0 +1,62 @@
+[
+  {
+    "id": "p1",
+    "age": 24,
+    "gender": "женский",
+    "education": "неоконченное высшее",
+    "income_band": "низкий",
+    "city_size": "мегаполис",
+    "region": "Москва",
+    "ess_trust_baseline": 4.2
+  },
+  {
+    "id": "p2",
+    "age": 38,
+    "gender": "мужской",
+    "education": "высшее",
+    "income_band": "средний",
+    "city_size": "город",
+    "region": "Казань",
+    "ess_trust_baseline": 5.1
+  },
+  {
+    "id": "p3",
+    "age": 52,
+    "gender": "женский",
+    "education": "среднее специальное",
+    "income_band": "средний",
+    "city_size": "малый город",
+    "region": "Вологодская обл.",
+    "ess_trust_baseline": 5.8
+  },
+  {
+    "id": "p4",
+    "age": 31,
+    "gender": "мужской",
+    "education": "высшее",
+    "income_band": "высокий",
+    "city_size": "мегаполис",
+    "region": "Санкт-Петербург",
+    "ess_trust_baseline": 4.8
+  },
+  {
+    "id": "p5",
+    "age": 45,
+    "gender": "женский",
+    "education": "среднее",
+    "income_band": "низкий",
+    "city_size": "малый город",
+    "region": "Башкортостан",
+    "ess_trust_baseline": 6.2
+  },
+  {
+    "id": "p6",
+    "age": 29,
+    "gender": "мужской",
+    "education": "высшее",
+    "income_band": "средний",
+    "city_size": "город",
+    "region": "Новосибирск",
+    "ess_trust_baseline": 4.5
+  }
+]

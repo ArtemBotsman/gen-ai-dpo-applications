@@ -1,0 +1,122 @@
+[
+  {
+    "speaker_id": "p1",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "Я бы поделила поровну — каждому по 50 рублей. Без контекста это кажется самым честным, ведь незнакомцы изначально равны перед нами.",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "Поддерживаю идею базового равенства с возможностью добровольного перераспределения. Это и честно, и по-человечески.",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "speaker_id": "p2",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "поровну — честно",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "кто-то хочет отдать свою долю нуждающемуся, это его право",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "speaker_id": "p3",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "50 на 50 — это по-честному",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "возможность одному отдать другому, если видно, что человеку действительно тяжело",
+        "confidence": 0.95
+      }
+    ]
+  },
+  {
+    "speaker_id": "p4",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "50 на 50 — базовая справедливость",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "заслуженность",
+        "sentiment": "positive",
+        "quote": "один вложил больше усилий",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "остро нуждается",
+        "confidence": 0.9
+      }
+    ]
+  },
+  {
+    "speaker_id": "p5",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "50 на 50 — это честно",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "помогать тем, кто в беде, это по-человечески",
+        "confidence": 0.9
+      },
+      {
+        "aspect": "заслуженность",
+        "sentiment": "positive",
+        "quote": "оставила право одному отказаться в пользу другого, если видно, что человеку тяжелее",
+        "confidence": 0.8
+      }
+    ]
+  },
+  {
+    "speaker_id": "p6",
+    "aspects": [
+      {
+        "aspect": "равенство",
+        "sentiment": "positive",
+        "quote": "50 на 50 — это честно",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "альтруизм",
+        "sentiment": "positive",
+        "quote": "оставить пространство для добровольного перераспределения, если один из незнакомцев явно нуждается больше",
+        "confidence": 0.95
+      },
+      {
+        "aspect": "заслуженность",
+        "sentiment": "positive",
+        "quote": "если бы мы знали, что один из них заработал эти деньги, я бы скорректировал",
+        "confidence": 0.95
+      }
+    ]
+  }
+]

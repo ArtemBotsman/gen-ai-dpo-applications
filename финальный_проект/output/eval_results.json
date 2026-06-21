@@ -1,0 +1,689 @@
+{
+  "passed": 49,
+  "total": 55,
+  "pass_rate": 0.891,
+  "meets_min_15": true,
+  "cases": [
+    {
+      "id": "resp_p1_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "resp_p1_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "resp_p1_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "resp_p1_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "resp_p1_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "resp_p2_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "resp_p2_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "resp_p2_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "resp_p2_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "resp_p2_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "resp_p3_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "resp_p3_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "resp_p3_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "resp_p3_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "resp_p3_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "resp_p4_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "resp_p4_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "resp_p4_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "resp_p4_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "resp_p4_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "resp_p5_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "resp_p5_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "resp_p5_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "resp_p5_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "resp_p5_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "resp_p6_10",
+      "type": "ultimatum_responder",
+      "offer": 10,
+      "accept": false,
+      "human_accept_rate": 0.19,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "resp_p6_20",
+      "type": "ultimatum_responder",
+      "offer": 20,
+      "accept": false,
+      "human_accept_rate": 0.41,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "resp_p6_30",
+      "type": "ultimatum_responder",
+      "offer": 30,
+      "accept": false,
+      "human_accept_rate": 0.59,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "resp_p6_40",
+      "type": "ultimatum_responder",
+      "offer": 40,
+      "accept": false,
+      "human_accept_rate": 0.72,
+      "ok": false,
+      "path": {
+        "role": "responder",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "resp_p6_50",
+      "type": "ultimatum_responder",
+      "offer": 50,
+      "accept": true,
+      "human_accept_rate": 0.88,
+      "ok": true,
+      "path": {
+        "role": "responder",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "survey_p1_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 2.8,
+      "delta": 0.2,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "survey_p1_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 2.1,
+      "delta": 0.1,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "survey_p1_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 2,
+      "ess_baseline": 2.9,
+      "delta": 0.9,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "survey_p2_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 3.4,
+      "delta": 0.4,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "survey_p2_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 2.6,
+      "delta": 0.6,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "survey_p2_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 3,
+      "ess_baseline": 3.1,
+      "delta": 0.1,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "survey_p3_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 3.9,
+      "delta": 0.9,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "survey_p3_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 3.0,
+      "delta": 1.0,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "survey_p3_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 2,
+      "ess_baseline": 2.5,
+      "delta": 0.5,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "survey_p4_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 3.1,
+      "delta": 0.1,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "survey_p4_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 2.4,
+      "delta": 0.4,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "survey_p4_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 3,
+      "ess_baseline": 3.5,
+      "delta": 0.5,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "survey_p5_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 4.0,
+      "delta": 1.0,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "survey_p5_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 3.2,
+      "delta": 1.2,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "survey_p5_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 2,
+      "ess_baseline": 2.3,
+      "delta": 0.3,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "survey_p6_trust_people",
+      "type": "survey_compare",
+      "field": "trust_people",
+      "synthetic": 3,
+      "ess_baseline": 3.2,
+      "delta": 0.2,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "survey_p6_trust_strangers",
+      "type": "survey_compare",
+      "field": "trust_strangers",
+      "synthetic": 2,
+      "ess_baseline": 2.5,
+      "delta": 0.5,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "survey_p6_risk_appetite",
+      "type": "survey_compare",
+      "field": "risk_appetite",
+      "synthetic": 3,
+      "ess_baseline": 3.0,
+      "delta": 0.0,
+      "ok": true,
+      "path": {
+        "phase": "survey",
+        "persona": "p6"
+      }
+    },
+    {
+      "id": "ghost_quotes",
+      "type": "hallucination_check",
+      "ghost_rate": 0.0,
+      "ghost_quotes": 0,
+      "total": 15,
+      "ok": true,
+      "path": {
+        "phase": "analyze",
+        "technique": "ghost_quote_validator"
+      }
+    },
+    {
+      "id": "prop_p1",
+      "type": "ultimatum_proposer",
+      "offer": 40,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p1"
+      }
+    },
+    {
+      "id": "prop_p2",
+      "type": "ultimatum_proposer",
+      "offer": 40,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p2"
+      }
+    },
+    {
+      "id": "prop_p3",
+      "type": "ultimatum_proposer",
+      "offer": 40,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p3"
+      }
+    },
+    {
+      "id": "prop_p4",
+      "type": "ultimatum_proposer",
+      "offer": 40,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p4"
+      }
+    },
+    {
+      "id": "prop_p5",
+      "type": "ultimatum_proposer",
+      "offer": 50,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p5"
+      }
+    },
+    {
+      "id": "prop_p6",
+      "type": "ultimatum_proposer",
+      "offer": 40,
+      "ok": true,
+      "path": {
+        "role": "proposer",
+        "persona": "p6"
+      }
+    }
+  ],
+  "summary_path": {
+    "llm_calls": 67,
+    "total_sec": 365.1,
+    "phases": {
+      "personas_sec": 53.5,
+      "focus_group_sec": 56.9,
+      "analyze_sec": 66.5,
+      "survey_sec": 39.1,
+      "ultimatum_sec": 149.2
+    },
+    "personas": 6,
+    "ultimatum_rounds": 36,
+    "ghost_quote_rate": 0.0,
+    "judge_score": 0.7
+  }
+}

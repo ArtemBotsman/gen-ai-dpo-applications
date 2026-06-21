@@ -1,0 +1,20 @@
+{
+  "source": "ESS Round 10 (2020–2022), агрегаты trust / fairness, упрощённо",
+  "note": "Шкала 1–5 для сравнения с синтетическим пилотом анкеты",
+  "by_cohort": {
+    "young_urban_low_income": {"trust_people": 2.8, "trust_strangers": 2.1, "risk_appetite": 2.9},
+    "mid_age_city_medium": {"trust_people": 3.4, "trust_strangers": 2.6, "risk_appetite": 3.1},
+    "older_small_town": {"trust_people": 3.9, "trust_strangers": 3.0, "risk_appetite": 2.5},
+    "high_income_metro": {"trust_people": 3.1, "trust_strangers": 2.4, "risk_appetite": 3.5},
+    "low_income_rural": {"trust_people": 4.0, "trust_strangers": 3.2, "risk_appetite": 2.3},
+    "mid_age_siberia": {"trust_people": 3.2, "trust_strangers": 2.5, "risk_appetite": 3.0}
+  },
+  "cohort_map": {
+    "p1": "young_urban_low_income",
+    "p2": "mid_age_city_medium",
+    "p3": "older_small_town",
+    "p4": "high_income_metro",
+    "p5": "low_income_rural",
+    "p6": "mid_age_siberia"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "source": "Meta-analysis ultimatum game (Güth et al.; Oosterbeek et al. 2004; Camerer 2003)",
+  "note": "Доля принятия предложения responder-ом у реальных испытуемых",
+  "acceptance_by_offer": {
+    "10": 0.19,
+    "20": 0.41,
+    "30": 0.59,
+    "40": 0.72,
+    "50": 0.88
+  },
+  "mean_offer": 40,
+  "rejection_below_20": 0.65
+}
